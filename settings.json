@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "SKY_BOT",
+    "password": "SKY_BOT",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "NPsurvivalggs.aternos.me:53874",
+    "port": 53874,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
